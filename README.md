@@ -8,4 +8,3 @@
 **Jak stáhnout**
 - Kliknete v pravo nahoře na code -> poté na download zip -> stáhne všechny mapy
 - Kliknete na mapu -> a v pravo nahoře dáte stáhnout
-- Kliknete na relese a zde vyberete mapu (BETA)
