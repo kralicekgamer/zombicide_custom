@@ -10,6 +10,7 @@
 2. Option - click on the map file, then on the download icon
 
 **Contact**
+- Website: https://zombicide.kralyk.dev/
 - Instagram: [@zombicide_custom](https://www.instagram.com/zombicide_custom/)
 - Email: kralicekgamer@gmail.com 
 
@@ -25,5 +26,6 @@
 2. možnost - klinout na soubor s mapou, poté na ikonu stažení
 
 **Kontakt**
+- Web: https://zombicide.kralyk.dev/
 - Instagram: [@zombicide_custom](https://www.instagram.com/zombicide_custom/)
 - Email: kralicekgamer@gmail.com 
