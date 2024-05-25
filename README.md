@@ -6,8 +6,8 @@
 - You can customize the scenarios as you wish
 
 **How to download?**
-Option 1 - click on "code" on the top right, then on "download zip"
-2nd option - click on the map file, then on the download icon
+1. Option - click on "code" on the top right, then on "download zip"
+2. Option - click on the map file, then on the download icon
 
 **Contact**
 - Instagram: [@zombicide_custom](https://www.instagram.com/zombicide_custom/)
