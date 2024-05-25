@@ -1,5 +1,5 @@
 # English
-# ZombiCide custom maps
+## ZombiCide custom maps
 **Info**
 - Here are the scenarios for the game [ZombiCide](https://www.zombicide.com/)
 - The scenarios are created in [MapEditor for BoardGames](https://github.com/nmzi/bgmapeditor)
@@ -14,7 +14,7 @@
 - Email: kralicekgamer@gmail.com 
 
 # Czech
-# ZombiCide custom mapy
+## ZombiCide custom mapy
 **Info**
 - Zde jsou scénáře pro hru [ZombiCide](https://www.zombicide.com/)
 - Scénáře jsou vytvořené v programu [MapEditor for BoardGames](https://github.com/nmzi/bgmapeditor)
